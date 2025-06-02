@@ -1,0 +1,6 @@
+path: "auth/api-key"
+body:
+  apiKey: "asasasa"
+headers:
+  content-type: "application/json"
+  Authorization: "Bearer xxx"
